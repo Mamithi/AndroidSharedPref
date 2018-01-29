@@ -21,25 +21,26 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="25dp"
-        android:textSize="20sp"
+        android:layout_marginBottom="25dp"
+        android:textSize="25sp"
         android:textStyle="italic"
-        android:text="TextView" />
+        android:text="@string/header_name" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnRed"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="@string/red_colour" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btnGreen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="@string/green_colour" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/btnYellow"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="@string/yellow_colour" />
 </LinearLayout>

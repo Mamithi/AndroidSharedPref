@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SharedPreferences</string>
+    <string name="header_name">Choose the colour for the app</string>
+    <string name="red_colour">Red Colour</string>
+    <string name="green_colour">Green Colour</string>
+    <string name="yellow_colour">Yellow Colour</string>
 </resources>
